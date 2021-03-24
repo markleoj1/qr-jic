@@ -1,4 +1,4 @@
-<script  src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script  src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 
   <div id="theater">
     <video id="videos" src="https://static.videezy.com/system/resources/previews/000/012/888/original/Pocket_Watch_a30_-_28s_-_4k_res.mp4" controls="false" muted autoplay></video>
