@@ -9,7 +9,7 @@
 
 $(document).ready(function(){
     $('#videos').on('ended',function(){
-        window.location.replace("https://docs.google.com/forms/d/e/1FAIpQLSeMoJ8JNWB1Fy9zxM-kLCbFghB3REew1kK4zshPpK5jOzKiFg/viewform?usp=sf_link");
+        window.open("https://docs.google.com/forms/d/e/1FAIpQLSeMoJ8JNWB1Fy9zxM-kLCbFghB3REew1kK4zshPpK5jOzKiFg/viewform?usp=sf_link");
     });
 
     var promise = document.querySelector('video').play();
